@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+      xmlns="http://www.w3.org/2000/svg"
+      
+      viewBox="0 0 240 180"
+      preserveAspectRatio="xMidYMid meet"
+    >
+      
+      <ellipse
+        cx="120"
+        cy="140"
+        rx="115"
+        ry="25"
+        fill="#F9C9B6"
+        stroke="#171921"
+        stroke-width="3"
+      />
+      
+      <path
+        d="M55 140C55 140 50 100 60 70C70 40 90 30 120 30C150 30 170 40 180 70C190 100 185 140 185 140"
+        fill="#F9C9B6"
+        stroke="#171921"
+        stroke-width="3"
+      />
+      
+      <path
+        d="M75 50C85 65 105 70 120 70C135 70 155 65 165 50"
+        stroke="#171921"
+        stroke-width="2"
+        fill="none"
+      />
+      
+      <path
+        d="M60 115C60 115 90 110 120 110C150 110 180 115 180 115"
+        stroke={color === "#000000" || color === "#000" ? "#8B4513" : "#171921"}
+        stroke-width="8"
+        stroke-linecap="round"
+      />
+      
+      <rect x="112" y="107" width="16" height="16" rx="2" fill="#FFD700" stroke="#171921" stroke-width="1" />
+    </svg>

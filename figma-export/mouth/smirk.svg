@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+      
+      width="64"
+      height="64"
+      viewBox="0 0 64 64"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      
+      <path
+        d="M15 30C20 28 30 27 35 28C40 29 50 35 52 32"
+        stroke="black"
+        stroke-width="4"
+        stroke-linecap="round"
+      />
+    </svg>

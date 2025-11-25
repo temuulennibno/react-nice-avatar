@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+      
+      width="64"
+      height="70"
+      viewBox="0 0 64 70"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      
+      <ellipse cx="32" cy="35" rx="20" ry="18" fill="#171921" />
+      
+      <path
+        d="M18 28C22 26 28 25 32 25C36 25 42 26 46 28"
+        stroke="white"
+        stroke-width="4"
+        stroke-linecap="round"
+      />
+      
+      <ellipse cx="32" cy="45" rx="10" ry="6" fill="#D35D6E" />
+    </svg>

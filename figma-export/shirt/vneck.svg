@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+      
+      width="281"
+      height="93"
+      viewBox="0 0 281 93"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      
+      <path
+        d="M3 91H277C277 91 260 45 235 35C210 25 180 30 140 55C100 30 70 25 45 35C20 45 3 91 3 91Z"
+        fill="#F9C9B6"
+        stroke="black"
+        stroke-width="4"
+      />
+      
+      <path
+        d="M105 35C115 45 130 60 140 70C150 60 165 45 175 35"
+        stroke="black"
+        stroke-width="4"
+        fill="none"
+      />
+      
+      <path d="M105 35L90 25" stroke="black" stroke-width="3" />
+      <path d="M175 35L190 25" stroke="black" stroke-width="3" />
+    </svg>

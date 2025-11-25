@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function shirtHoody(props: { color: string, lightColor: string }): SVGElement {
+export default function shirtHoody(props: { color: string, lightColor: string }): React.ReactElement {
   const { color, lightColor } = props;
   return (
     <svg

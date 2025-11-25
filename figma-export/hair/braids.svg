@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+      
+      width="260"
+      height="380"
+      viewBox="0 0 260 380"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      
+      <path
+        d="M30 140C30 140 25 90 55 55C85 20 115 15 135 15C155 15 185 25 210 60C235 95 230 140 230 140"
+        fill="#171921"
+        stroke="#171921"
+        stroke-width="3"
+      />
+      
+      <path
+        d="M45 145C45 145 40 180 42 220C44 260 48 300 50 340"
+        stroke="#171921"
+        stroke-width="18"
+        stroke-linecap="round"
+      />
+      <ellipse cx="50" cy="180" rx="8" ry="12" fill="#171921" />
+      <ellipse cx="48" cy="220" rx="8" ry="12" fill="#171921" />
+      <ellipse cx="50" cy="260" rx="8" ry="12" fill="#171921" />
+      <ellipse cx="50" cy="300" rx="8" ry="12" fill="#171921" />
+      <circle cx="50" cy="345" r="8" fill="#FFD700" />
+      
+      <path
+        d="M215 145C215 145 220 180 218 220C216 260 212 300 210 340"
+        stroke="#171921"
+        stroke-width="18"
+        stroke-linecap="round"
+      />
+      <ellipse cx="210" cy="180" rx="8" ry="12" fill="#171921" />
+      <ellipse cx="212" cy="220" rx="8" ry="12" fill="#171921" />
+      <ellipse cx="210" cy="260" rx="8" ry="12" fill="#171921" />
+      <ellipse cx="210" cy="300" rx="8" ry="12" fill="#171921" />
+      <circle cx="210" cy="345" r="8" fill="#FFD700" />
+    </svg>

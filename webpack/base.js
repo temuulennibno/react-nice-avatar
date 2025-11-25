@@ -1,7 +1,6 @@
 const path = require("path");
 const autoprefixer = require("autoprefixer");
 const tailwindcss = require("tailwindcss");
-const webpack = require("webpack");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 
 module.exports = ({ includeReactHotLoader = false } = {}) => ({
@@ -40,13 +39,10 @@ module.exports = ({ includeReactHotLoader = false } = {}) => ({
                 { targets: { browsers: 'last 2 versions' } },
               ],
               '@babel/preset-typescript',
-              '@babel/preset-react',
+              ['@babel/preset-react', { runtime: 'automatic' }],
             ],
             plugins: [
               "@babel/plugin-transform-runtime",
-              "@babel/plugin-proposal-private-methods",
-              "@babel/plugin-syntax-async-generators",
-              "@babel/plugin-transform-regenerator",
               ...(includeReactHotLoader ? ['react-hot-loader/babel'] : []),
             ],
           },

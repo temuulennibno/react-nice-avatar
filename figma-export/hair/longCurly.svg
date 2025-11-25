@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+      
+      width="280"
+      height="400"
+      viewBox="0 0 280 400"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      
+      <path
+        d="M30 150C30 150 20 90 55 50C90 10 130 5 145 5C160 5 200 15 235 55C270 95 260 150 260 150"
+        fill="#171921"
+        stroke="#171921"
+        stroke-width="3"
+      />
+      
+      <path
+        d="M35 150C30 200 25 250 35 300C45 350 55 380 55 380"
+        stroke="#171921"
+        stroke-width="25"
+        stroke-linecap="round"
+      />
+      <circle cx="30" cy="180" r="15" fill="#171921" />
+      <circle cx="25" cy="220" r="14" fill="#171921" />
+      <circle cx="28" cy="260" r="15" fill="#171921" />
+      <circle cx="35" cy="300" r="14" fill="#171921" />
+      <circle cx="45" cy="340" r="13" fill="#171921" />
+      
+      <path
+        d="M245 150C250 200 255 250 245 300C235 350 225 380 225 380"
+        stroke="#171921"
+        stroke-width="25"
+        stroke-linecap="round"
+      />
+      <circle cx="250" cy="180" r="15" fill="#171921" />
+      <circle cx="255" cy="220" r="14" fill="#171921" />
+      <circle cx="252" cy="260" r="15" fill="#171921" />
+      <circle cx="245" cy="300" r="14" fill="#171921" />
+      <circle cx="235" cy="340" r="13" fill="#171921" />
+      
+      <circle cx="60" cy="60" r="18" fill="#171921" />
+      <circle cx="100" cy="35" r="16" fill="#171921" />
+      <circle cx="145" cy="25" r="18" fill="#171921" />
+      <circle cx="190" cy="35" r="16" fill="#171921" />
+      <circle cx="225" cy="60" r="17" fill="#171921" />
+    </svg>

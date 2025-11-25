@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function glassesSquare(): SVGElement {
+export default function glassesSquare(): React.ReactElement {
   return (
     <svg
       style={{

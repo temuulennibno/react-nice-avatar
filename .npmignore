@@ -1,28 +1,28 @@
-// system file
+# System files
 *.log
 .DS_Store*
 .idea/
 report.*.json
 
-// specific files
+# Source and dev files
 node_modules/
-test/
-CHANGELOG.md
 src/
 demo/
+playground/
 test/
+webpack/
+.github/
+
+# Config files
 Makefile
-README.md
 jest.config.js
 tsconfig.json
-.github/
-webpack/
 tailwind.config.js
-
-// setting files
 .babelrc
 .travis.yml
 .eslintrc.js
 .eslintignore
-.travis.yml
 .versionrc.json
+
+# Keep README
+!README.md
